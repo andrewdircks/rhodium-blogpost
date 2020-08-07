@@ -1,3 +1,4 @@
+import pandas as pd
 from rhodium import *
 
 # use pandas to read the csv file
